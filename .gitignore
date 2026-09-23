@@ -1,0 +1,8 @@
+ckpts/
+models/
+datasets/
+eval_scratch/
+wandb/
+*.log
+__pycache__/
+*.pyc
