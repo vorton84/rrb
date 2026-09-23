@@ -1,6 +1,6 @@
-# Half the Rollouts, No Measurable Cost
+# Rollout budget and credit assignment in group-relative RL
 
-Code for the ICLR 2027 submission. Built on verl 0.5.0.dev (Apache 2.0, `LICENSE`).
+Code accompanying an anonymous conference submission. Built on verl 0.5.0.dev (Apache 2.0, `LICENSE`).
 
 ## Layout
 
