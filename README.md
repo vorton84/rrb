@@ -16,6 +16,7 @@ recipe/ktsc/         KL-targeted step control, applied to DAPO and to PSO v5
 recipe/irt/          prompt selection with the mixed-group observer; random-selection (eps=1.0) runs at gen 256/128/96 and for the two additional models
 data/                builders for the AIME 2025 and AIME 2026 evaluation parquets
 eval/                mean@128 summary over evaluation logs
+figures/             regenerates the paper figures from the tabulated readouts and the observer series (obs.json)
 ```
 
 ## Setup
